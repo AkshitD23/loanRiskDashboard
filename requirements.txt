@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+numpy
+joblib
+scikit-learn
+pydantic
+python-multipart
+# Add any other specific versions if needed, e.g., scikit-learn==1.3.0
